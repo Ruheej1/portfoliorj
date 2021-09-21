@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfoliorj/static/css/main.9e79e964.chunk.css",
+    "main.js": "/portfoliorj/static/js/main.56ec79ae.chunk.js",
+    "main.js.map": "/portfoliorj/static/js/main.56ec79ae.chunk.js.map",
+    "runtime-main.js": "/portfoliorj/static/js/runtime-main.bd3d3476.js",
+    "runtime-main.js.map": "/portfoliorj/static/js/runtime-main.bd3d3476.js.map",
+    "static/js/2.00862669.chunk.js": "/portfoliorj/static/js/2.00862669.chunk.js",
+    "static/js/2.00862669.chunk.js.map": "/portfoliorj/static/js/2.00862669.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/portfoliorj/static/css/3.df879eac.chunk.css",
+    "static/js/3.cc331e79.chunk.js": "/portfoliorj/static/js/3.cc331e79.chunk.js",
+    "static/js/3.cc331e79.chunk.js.map": "/portfoliorj/static/js/3.cc331e79.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/portfoliorj/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.d3915d0c.chunk.js": "/portfoliorj/static/js/4.d3915d0c.chunk.js",
+    "static/js/4.d3915d0c.chunk.js.map": "/portfoliorj/static/js/4.d3915d0c.chunk.js.map",
+    "index.html": "/portfoliorj/index.html",
+    "precache-manifest.a90af79f27f38c3b8d997667b04f8fb2.js": "/portfoliorj/precache-manifest.a90af79f27f38c3b8d997667b04f8fb2.js",
+    "service-worker.js": "/portfoliorj/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/portfoliorj/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/portfoliorj/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.9e79e964.chunk.css.map": "/portfoliorj/static/css/main.9e79e964.chunk.css.map",
+    "static/js/2.00862669.chunk.js.LICENSE.txt": "/portfoliorj/static/js/2.00862669.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfoliorj/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/bvcoe.png": "/portfoliorj/static/media/bvcoe.8072365f.png",
+    "static/media/contactMailDark.svg": "/portfoliorj/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/portfoliorj/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/portfoliorj/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/portfoliorj/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/portfoliorj/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3d3476.js",
+    "static/js/2.00862669.chunk.js",
+    "static/css/main.9e79e964.chunk.css",
+    "static/js/main.56ec79ae.chunk.js"
+  ]
+}
